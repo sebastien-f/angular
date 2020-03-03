@@ -496,7 +496,7 @@ During each navigation, the `Router` emits navigation events through the `Router
     </td>
     <td>
 
-      An [event](api/router/ActivationStart) triggered when the Router finishes activating a route.
+      An [event](api/router/ActivationEnd) triggered when the Router finishes activating a route.
 
     </td>
   </tr>
